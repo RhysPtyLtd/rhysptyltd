@@ -1,3 +1,7 @@
+<p align="centre">
+    <img src="https://user-images.githubusercontent.com/87553424/179684926-8d785f22-002c-4510-b071-714a877b33cf.png" alt="Rhys Phillips">
+</p>
+
 ### Hi there 👋
 
 <!--
