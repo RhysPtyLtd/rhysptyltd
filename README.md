@@ -21,9 +21,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 * Full-time sudent of Information Technology (Computer Science) @ QUT 🤓
-* Head-over-heels in love with SaaS businesses 😍
-* Tinkerer for life 🤖
-* 💚 to teach, 🧡 to learn, so please get in touch 🎟 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysptyltd&layout=compact)](https://github.com/rhysptyltd)
 
